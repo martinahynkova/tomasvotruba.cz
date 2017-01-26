@@ -77,7 +77,7 @@ Zvaž, co je pro tebe důležité a jestli těch 60 % energie chceš investovat 
 
 ## 6. Na vysoké škole jsou vyučení učitelé, ne lidé z praxe
 
-Co mě nejvíc mrzí je, že na škole učí učitelé. Lidé, kteří na škole zůstali už od svých studentských let. Často pak mají minimální praxi z oboru, který učí. Jak to vypadlo?
+Co mě nejvíc mrzí je, že na škole učí učitelé. Lidé, kteří na škole zůstali už od svých studentských let. Často pak mají minimální praxi z oboru, který učí. Jak to vypadalo?
 
 O počítačích nás neučil člověk, který navrhuje efektivní procesory...
 O lidské psychice nás neučil terapeut s 10letou praxí, který pomohl stovkám lidí...
